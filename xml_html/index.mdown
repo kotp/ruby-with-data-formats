@@ -1,0 +1,3 @@
+This section includes parsing of XML/XHTML
+
+* Students need to learn what XML is. How deep should we talk about XML itself.
