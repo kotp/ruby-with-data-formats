@@ -1,0 +1,62 @@
+# Formats
+
+CSV, XML, YAML, PDF, JSON, JSONP, EXCEL, FOAF, HTML, XHTML, Microformats, RSS, ATOM
+
+# XML related
+
+## Hpricot (HTML and XML)
+
+* <http://code.whytheluckystiff.net/hpricot/>
+
+## Simple XML
+
+* <http://xml-simple.rubyforge.org/>
+
+## Nokogiri
+
+* <http://nokogiri.rubyforge.org/nokogiri/>
+
+## REXML
+
+* <http://ruby-doc.org/core/classes/REXML.html>
+
+
+# Mofo (Microformats)
+
+* <http://mofo.rubyforge.org/>
+
+## CSV
+
+* Ruby 1.9 uses fastercsv by default. <http://ruby-doc.org/core-1.9/classes/CSV.html>
+* CSV Mapper <http://csv-mapper.rubyforge.org/>
+
+## CSS
+
+* <http://code.google.com/p/ruby-css-parser/>
+* <http://code.dunae.ca/css_parser/>
+
+## Exporting PDF
+
+* PDF::Writer <http://ruby-pdf.rubyforge.org/pdf-writer/>
+* prawn <http://prawn.majesticseacreature.com/>
+
+## Excel
+
+* parseexcel
+* http://spreadsheet.rubyforge.org/
+
+## RSS and ATOM
+
+* <http://ruby-doc.org/core/classes/RSS.html>
+* <http://simple-rss.rubyforge.org/>
+* <http://rubyforge.org/projects/atom>
+* <http://rubyforge.org/projects/feedtools>
+* <http://feed-normalizer.rubyforge.org/>
+
+
+## YAML
+
+* <http://www.ruby-doc.org/core/classes/YAML.html>
+* <http://yaml4r.sourceforge.net/doc/>
+* <http://nokogiri.rubyforge.org/nokogiri/>
+* <http://treetop.rubyforge.org/>
