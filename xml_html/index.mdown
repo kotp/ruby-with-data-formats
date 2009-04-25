@@ -1,3 +1,14 @@
 This section includes parsing of XML/XHTML
 
 * Students need to learn what XML is. How deep should we talk about XML itself.
+  * What is XML?
+  * What are nodes, attributes, elements?
+  * What's the difference between "well-formed" and "valid"
+  * What's the differenbe between XML and XHTML?
+  * Basic parsing
+  * XPath parsing
+  * CSS3 selector parsing
+* Just doing XML/XHTML may serve as one course. 5 to 7 days.
+* Which gem/library should be introduced?
+* We need real world examples, which students parse and reformat.
+* After good experience with XML/XHTML, students should be able to parse RSS/ATOM, but we can save the libraries for RSS/ATOM for another course.
