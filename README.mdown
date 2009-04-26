@@ -60,3 +60,13 @@ CSV, XML, YAML, PDF, JSON, JSONP, EXCEL, FOAF, HTML, XHTML, Microformats, RSS, A
 * <http://yaml4r.sourceforge.net/doc/>
 * <http://nokogiri.rubyforge.org/nokogiri/>
 * <http://treetop.rubyforge.org/>
+
+# Contributers
+
+* Takaaki Kato (main)
+
+# Copyright
+
+&copy; Copyright 2009 Takaaki Kato. All Rights Reserved.
+
+Takaaki will change to another license after talking with other contributers.
