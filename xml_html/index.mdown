@@ -1,14 +1,47 @@
 This section includes parsing of XML/XHTML
 
+## Requirements
+* Students should have a basic understanding of XHTML/CSS as well as Ruby.
+
+## Contents
+
 * Students need to learn what XML is. How deep should we talk about XML itself.
-  * What is XML?
+  * What is XML? <http://en.wikipedia.org/wiki/Xml>
   * What are nodes, attributes, elements?
   * What's the difference between "well-formed" and "valid"
   * What's the differenbe between XML and XHTML?
   * Basic parsing
-  * XPath parsing
+  * XPath parsing <http://www.w3schools.com/Xpath/>
   * CSS3 selector parsing
 * Just doing XML/XHTML may serve as one course. 5 to 7 days.
 * Which gem/library should be introduced?
 * We need real world examples, which students parse and reformat.
 * After good experience with XML/XHTML, students should be able to parse RSS/ATOM, but we can save the libraries for RSS/ATOM for another course.
+
+## Tasks
+
+* Parsing documents taken from the real world.
+* Changing/adding/removing node/elements/attributes
+* Making XHTML files using the libraries
+
+## Libraries
+
+* * We discuss Hpricot and Nokogiri, both of which are popular, as well as REXML, which comes with Ruby by default.
+
+## CSS Selectors
+
+* <http://www.w3.org/TR/css3-selectors/#selectors>
+* <http://www.quirksmode.org/css/contents.html>
+* <http://wiki.github.com/why/hpricot/supported-css-selectors>
+
+
+## XPath
+
+* <http://en.wikipedia.org/wiki/XPath>
+* <http://www.zvon.org/xxl/XPathTutorial/General/examples.html>
+* [REXML](http://www.ruby-doc.org/stdlib/libdoc/rexml/rdoc/classes/REXML/XPath.html)
+* <http://www.tutorialspoint.com/ruby/ruby_xml_xslt.htm>
+* <http://edutechwiki.unige.ch/en/XPath_tutorial_-_basics>
+* <http://calibre.kovidgoyal.net/user_manual/xpath.html>
+* <http://webdesign.about.com/library/weekly/aa110501a.htm>
+* <https://developer.mozilla.org/en/XPath>
